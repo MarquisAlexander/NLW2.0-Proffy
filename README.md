@@ -60,7 +60,7 @@ Para testar essa aplicação na sua máquina siga os passos abaixo. :)
 
 ## Download
 Primeiro use o `git clone` para fazer o download desse repositório, você pode usar o link abaixo.
-https://github.com/MarquisAlexander/twitter-clone.git .
+https://github.com/MarquisAlexander/NLW2.0-Proffy/tree/master .
 comando completo: `git  clone` + link do repositório
 
 ## Instalação
